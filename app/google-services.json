@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "421998724743",
+    "firebase_url": "https://focusdelivery-f158c.firebaseio.com",
+    "project_id": "focusdelivery-f158c",
+    "storage_bucket": "focusdelivery-f158c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421998724743:android:b613b70e309dec82",
+        "android_client_info": {
+          "package_name": "net.focusdelivery.focusdeliverymotoboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421998724743-4ahve57tfjeiuflvbrsbb2g5vi7d10va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTFy2NdMiGZf_Ytj1QzZAzJ_UrqK8JsO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421998724743-4ahve57tfjeiuflvbrsbb2g5vi7d10va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421998724743:android:2e763b9a61077f2b",
+        "android_client_info": {
+          "package_name": "net.focusdelivery.focusdeliverymotoboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421998724743-4ahve57tfjeiuflvbrsbb2g5vi7d10va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTFy2NdMiGZf_Ytj1QzZAzJ_UrqK8JsO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421998724743-4ahve57tfjeiuflvbrsbb2g5vi7d10va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
